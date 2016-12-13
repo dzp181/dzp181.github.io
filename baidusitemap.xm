@@ -3,10 +3,9 @@
 
 
     
-    
   <url>
     <loc>http://www.loveer.tech/2016/12/13/test/</loc>
-    <lastmod>2016-12-13T08:45:04.000Z</lastmod>
+    <lastmod>2016-12-13T09:40:01.000Z</lastmod>
     <data>
         <display>
         <title>test</title>
@@ -27,6 +26,7 @@
     </data>
     </url>
 
+    
     
     
     
