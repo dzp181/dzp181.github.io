@@ -3,9 +3,11 @@
 
 
     
+    
+    
   <url>
     <loc>http://www.loveer.tech/2016/12/12/hello-world/</loc>
-    <lastmod>2016-12-14T05:35:58.000Z</lastmod>
+    <lastmod>2016-12-14T08:13:23.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
@@ -17,6 +19,7 @@
     </data>
     </url>
 
+    
     
     
   <url>
@@ -42,7 +45,4 @@
     </data>
     </url>
 
-    
-    
-    
 </urlset>
