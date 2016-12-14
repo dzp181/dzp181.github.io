@@ -1467,9 +1467,10 @@ pre .javascript .function {
   padding: 2px;
   max-width: 120px;
   height: auto;
-  opacity: 0.6;
+  border: 1px solid #eee;
+  opacity: 0.9;
   overflow: hidden;
-  border: 10px solid #217fbc;
+  display: inline-block;
   cursor: pointer;
   border-radius: 100px;
   -ms-border-radius: 100px;
@@ -1484,7 +1485,7 @@ pre .javascript .function {
 }
 .site-author-image:hover {
   opacity: 1;
-  border: 10px solid #1fcf6d;
+  border: 1px solid #eee;
   -webkit-transform: rotate(360deg) scale(1.1);
   -moz-transform: rotate(360deg) scale(1.1);
   -ms-transform: rotate(360deg) scale(1.1);
@@ -1575,7 +1576,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d2ff5d;
+  background: #ffa72f;
 }
 .links-of-blogroll {
   font-size: 13px;
