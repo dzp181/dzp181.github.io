@@ -1467,9 +1467,10 @@ pre .javascript .function {
   padding: 2px;
   max-width: 120px;
   height: auto;
-  border: 10px solid #217fbc;
-  opacity: 0.9;
+  opacity: 0.6;
   overflow: hidden;
+  display: inline-block;
+  border: 10px solid #217fbc;
   cursor: pointer;
   border-radius: 100px;
   -ms-border-radius: 100px;
@@ -1490,7 +1491,7 @@ pre .javascript .function {
   -ms-transform: rotate(360deg) scale(1.1);
   -o-transform: rotate(360deg) scale(1.1);
   transform: rotate(360deg) scale(1.1);
-  -ms-transition: all 2s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
   -moz-transform: rotate(360deg) scale(1.1);
   -wekit-transform: rotate(360deg) scale(1.1);
   -o-transform: rotate(360deg) scale(1.1);
@@ -1575,7 +1576,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6f79d9;
+  background: #ffc854;
 }
 .links-of-blogroll {
   font-size: 13px;
