@@ -1468,13 +1468,10 @@ pre .javascript .function {
   max-width: 120px;
   height: auto;
   border: 1px solid #eee;
-  opacity: 0.6;
-  width: 100px;
-  height: 100px;
+  opacity: 0.9;
   overflow: hidden;
   display: inline-block;
   border: 10px solid #217fbc;
-  margin-left: 65px;
   cursor: pointer;
   border-radius: 100px;
   -ms-border-radius: 100px;
@@ -1580,7 +1577,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a3f6ff;
+  background: #0d2932;
 }
 .links-of-blogroll {
   font-size: 13px;

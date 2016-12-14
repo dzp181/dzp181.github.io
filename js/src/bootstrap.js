@@ -45,7 +45,7 @@ $(document).ready(function () {
   // Animation
   $('#coolShow').coolShow({
     imgSrc:['images/backGroundImage.jpg'],
-    speed:40
+    speed:60
   });
 
 });
