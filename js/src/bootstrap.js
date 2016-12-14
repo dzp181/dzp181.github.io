@@ -41,4 +41,11 @@ $(document).ready(function () {
   CONFIG.motion && NexT.motion.integrator.bootstrap();
 
   $(document).trigger('bootstrap:after');
+
+  // Animation
+  $('#coolShow').coolShow({
+    imgSrc:['images/backGroundImage.jpg'],
+    speed:40
+  });
+
 });
