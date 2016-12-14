@@ -1470,7 +1470,6 @@ pre .javascript .function {
   width: 120px;
   opacity: 0.6;
   overflow: hidden;
-  display: inline-block;
   border: 10px solid #217fbc;
   cursor: pointer;
   border-radius: 100px;
@@ -1577,7 +1576,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a439ff;
+  background: #65ff70;
 }
 .links-of-blogroll {
   font-size: 13px;
