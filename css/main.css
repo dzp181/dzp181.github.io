@@ -1484,7 +1484,7 @@ pre .javascript .function {
 }
 .site-author-image:hover {
   opacity: 1;
-  border: 1px solid #eee;
+  border: 10px solid #1fcf6d;
   -webkit-transform: rotate(360deg) scale(1.1);
   -moz-transform: rotate(360deg) scale(1.1);
   -ms-transform: rotate(360deg) scale(1.1);
@@ -1575,7 +1575,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3eb4ff;
+  background: #6f79d9;
 }
 .links-of-blogroll {
   font-size: 13px;
