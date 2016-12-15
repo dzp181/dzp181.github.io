@@ -1575,7 +1575,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #73955b;
+  background: #daffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1700,8 +1700,12 @@ pre .javascript .function {
   margin: 0 5px;
 }
 .powered-by,
+.statistics-site,
 .theme-info {
   display: inline-block;
+}
+.statistics-site {
+  margin-left: 10px;
 }
 .powered-by {
   margin-right: 10px;
