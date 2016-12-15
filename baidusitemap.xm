@@ -3,28 +3,9 @@
 
 
     
-    
-    
-  <url>
-    <loc>http://www.loveer.tech/2016/12/12/hello-world/</loc>
-    <lastmod>2016-12-14T08:13:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-12-12T09:05:46.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
   <url>
     <loc>http://www.loveer.tech/2016/12/13/test/</loc>
-    <lastmod>2016-12-14T01:59:11.000Z</lastmod>
+    <lastmod>2016-12-15T02:42:54.000Z</lastmod>
     <data>
         <display>
         <title>test</title>
@@ -45,4 +26,23 @@
     </data>
     </url>
 
+    
+    
+    
+  <url>
+    <loc>http://www.loveer.tech/2016/12/12/hello-world/</loc>
+    <lastmod>2016-12-14T08:13:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-12-12T09:05:46.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
 </urlset>
