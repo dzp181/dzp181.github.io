@@ -3,6 +3,7 @@
 
 
     
+    
   <url>
     <loc>http://www.loveer.tech/2016/12/13/test/</loc>
     <lastmod>2016-12-15T02:42:54.000Z</lastmod>
@@ -43,6 +44,5 @@
     </data>
     </url>
 
-    
     
 </urlset>
