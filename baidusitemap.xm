@@ -3,6 +3,21 @@
 
 
     
+  <url>
+    <loc>http://www.loveer.tech/2017/01/04/%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2017-01-04T03:26:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>回顾与总结</title>
+        <pubTime>2017-01-04T02:38:02.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://www.loveer.tech/2016/12/13/test/</loc>
