@@ -5,17 +5,34 @@
     
   <url>
     <loc>http://www.loveer.tech/2017/01/10/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2017-01-10T06:58:00.000Z</lastmod>
+    <lastmod>2017-01-10T07:03:07.000Z</lastmod>
     <data>
         <display>
         <title>微信小程序</title>
         <pubTime>2017-01-10T02:36:49.000Z</pubTime>
         
+        <tag>小程序</tag>
+         
          
            
              
               <breadCrumb title="微信小程序" url="http://www.loveer.tech/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.loveer.tech/2017/01/04/%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2017-01-10T07:00:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>回顾与展望</title>
+        <pubTime>2017-01-04T02:38:02.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
