@@ -3,6 +3,24 @@
 
 
     
+  <url>
+    <loc>http://www.loveer.tech/2017/01/10/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2017-01-10T06:58:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>微信小程序</title>
+        <pubTime>2017-01-10T02:36:49.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="微信小程序" url="http://www.loveer.tech/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://www.loveer.tech/2016/12/13/test/</loc>

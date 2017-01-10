@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.loveer.tech/"/>
-  <updated>2016-12-15T02:42:54.000Z</updated>
+  <updated>2017-01-10T06:58:00.000Z</updated>
   <id>http://www.loveer.tech/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微信小程序</title>
+    <link href="http://www.loveer.tech/2017/01/10/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <id>http://www.loveer.tech/2017/01/10/微信小程序/</id>
+    <published>2017-01-10T02:36:49.000Z</published>
+    <updated>2017-01-10T06:58:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>2017年1月9号，微信小程序发布。小程序一出，程序员反应挺大的。有的说是一场革命，有的说没啥用…那么开始简单说下这个火热的微信小程序。</p>
+<h2 id="（一）、微信小程序之试玩"><a href="#（一）、微信小程序之试玩" class="headerlink" title="（一）、微信小程序之试玩"></a>（一）、微信小程序之试玩</h2><blockquote>
+<p>1.pc端有微信小程序应用商店。网站minapp.com。其中里面云集了各种类型的小程序，也可以发布。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/1874585-88a857c60d428350.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="store.png"></p>
+<a id="more"></a>
+<blockquote>
+<p>2.客户端(iOS)。在微信中小程序的入口方式比较多，可以在微信小程序应用商店扫二维码进入，进入一次之后再微信朋友圈下方会有个S图形的入口，即小程序。也可以搜索相关公众号（例如，小程序示例）进入等。进入之后如下图。<br><img src="http://upload-images.jianshu.io/upload_images/1874585-24945bd14a1e6ce3.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="WechatIMG2.jpeg"></p>
+</blockquote>
+<h2 id="（二）、微信小程序之思考"><a href="#（二）、微信小程序之思考" class="headerlink" title="（二）、微信小程序之思考"></a>（二）、微信小程序之思考</h2><blockquote>
+<p>1.获取信息更便捷。微信小程序刚出一天，感觉挺火的，所有的技术群都在说微信小程序，公司也在研究。微信公众号，新闻，微博等都是在介绍微信小程序。就对我而言，小程序出来一上午，我安装了十几个小程序，感觉很惊喜。如果拿小程序当做一“工具”来说，小程序的方便快捷等完胜native app。这种场景还是很多的，出门看个天气，出行看下地铁，宅在家里点个外卖…手机里面的app多的很，现在都集中在一起，并且小而简，用户获取信息更便捷。</p>
+<p> 2.多应用通信。暂且说小程序也是应用吧，一般的概念是应用集成在客户端或者pc端上，现在小程序是集成在微信这个应用里面，讲真想法挺独特的（引领时代发展的人—-改革）。在微信里面，当你使用小程序的同时，你可以将这个小程序“挂起”（微信小程序术语叫显示在聊天顶部），然后你可以微信聊天，两者不冲突。平时应用于应用之间的通信比较少，比较局限，像iOS这边，最多一个应用与另一个应用通信等，但是不会用那么多的应用于应用通信的，并且微信与如此多的小程序之间通信很流畅，也很舒适，iead简直很棒。</p>
+<p>3.小程序线下。看了些帖子，里面有一个说到。微信小程序在线下将大展身手。微信凭借自身巨大的用户量和用户粘性，小程序线下使用场景也是看好。例如：吃饭排队，扫二维码；医院挂号，扫二维码；买水果，扫二维码……场景竟然如此之多，你可能说现在很多软件就是在做这些东西，为什么还要搞这些？作为一个开放人员来说，小程序开发快，功能小而简，当然也有可能搞不好我这个iOS开发够就要失业了等等。作为boss，这成本优势也是明显的。作为商户来说，优点也是明显的，有些商户不懂app具体内容，成本，复杂程度，bug等等，简单也是对他们来说是件好事。</p>
+<p>4.流畅度较好。之前做过微信小程序简单开发，也就是尝鲜。大致是这样，具体控件微信自己封装的，兼容所有的javascript语法，css等，对于一个app开发来说，学过h5，打心底认为这就是h5。。。。流畅度会比native差点。但是小程序出来之后，并没有之前那种感觉，简直要逆天。</p>
+<p>5.祝愿。希望小程序能够带来更大的期待，看好态度！</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2017年1月9号，微信小程序发布。小程序一出，程序员反应挺大的。有的说是一场革命，有的说没啥用…那么开始简单说下这个火热的微信小程序。&lt;/p&gt;
+&lt;h2 id=&quot;（一）、微信小程序之试玩&quot;&gt;&lt;a href=&quot;#（一）、微信小程序之试玩&quot; class=&quot;headerlink&quot; title=&quot;（一）、微信小程序之试玩&quot;&gt;&lt;/a&gt;（一）、微信小程序之试玩&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;1.pc端有微信小程序应用商店。网站minapp.com。其中里面云集了各种类型的小程序，也可以发布。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/1874585-88a857c60d428350.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;store.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="微信小程序" scheme="http://www.loveer.tech/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
