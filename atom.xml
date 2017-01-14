@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.loveer.tech/"/>
-  <updated>2017-01-10T07:03:07.000Z</updated>
+  <updated>2017-01-14T14:54:07.000Z</updated>
   <id>http://www.loveer.tech/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>iOS开发归档</title>
+    <link href="http://www.loveer.tech/2017/01/14/iOS%E5%BC%80%E5%8F%91%E5%BD%92%E6%A1%A3/"/>
+    <id>http://www.loveer.tech/2017/01/14/iOS开发归档/</id>
+    <published>2017-01-14T14:31:46.000Z</published>
+    <updated>2017-01-14T14:54:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>乘着最近有点时间，忙里偷闲把网路上的总结和之前工作上的收藏的书签等统一归档在一起，方便自己日后查找和给别人使用、查阅等，也许归档不全，以后会一直持续更新。感谢开源！</p>
+<h2 id="（一）、iOS开发归档总结"><a href="#（一）、iOS开发归档总结" class="headerlink" title="（一）、iOS开发归档总结"></a>（一）、iOS开发归档总结</h2><blockquote>
+<ol>
+<li><a href="https://github.com/dzp181/LearningSummary" target="_blank" rel="external">github链接传送门</a></li>
+<li>图示如下：<img src="http://upload-images.jianshu.io/upload_images/1874585-2b01fa36bff6f22d.gif?imageMogr2/auto-orient/strip" alt="LearnTableView.gif"></li>
+</ol>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;乘着最近有点时间，忙里偷闲把网路上的总结和之前工作上的收藏的书签等统一归档在一起，方便自己日后查找和给别人使用、查阅等，也许归档不全，以后会一直持续更新。感谢开源！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="iOS开发归档" scheme="http://www.loveer.tech/categories/iOS%E5%BC%80%E5%8F%91%E5%BD%92%E6%A1%A3/"/>
+    
+    
+      <category term="iOS" scheme="http://www.loveer.tech/tags/iOS/"/>
+    
+  </entry>
   
   <entry>
     <title>微信小程序</title>

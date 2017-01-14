@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://www.loveer.tech/2017/01/14/iOS%E5%BC%80%E5%8F%91%E5%BD%92%E6%A1%A3/</loc>
+    <lastmod>2017-01-14T14:54:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>iOS开发归档</title>
+        <pubTime>2017-01-14T14:31:46.000Z</pubTime>
+        
+        <tag>iOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="iOS开发归档" url="http://www.loveer.tech/categories/iOS%E5%BC%80%E5%8F%91%E5%BD%92%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.loveer.tech/2017/01/10/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2017-01-10T07:03:07.000Z</lastmod>
     <data>
