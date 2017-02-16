@@ -3,13 +3,12 @@
 
 
     
-    
   <url>
-    <loc>http://www.loveer.tech/2017/02/16/DiDIDrawer/</loc>
-    <lastmod>2017-02-16T02:29:04.000Z</lastmod>
+    <loc>http://www.loveer.tech/2017/02/16/DiDiDrawer/</loc>
+    <lastmod>2017-02-16T02:38:45.000Z</lastmod>
     <data>
         <display>
-        <title>DiDIDrawer</title>
+        <title>DiDiDrawer</title>
         <pubTime>2017-02-16T02:23:53.000Z</pubTime>
         
         <tag>iOS</tag>
@@ -23,6 +22,7 @@
     </data>
     </url>
 
+    
     
   <url>
     <loc>http://www.loveer.tech/2017/01/14/iOS%E5%BC%80%E5%8F%91%E5%BD%92%E6%A1%A3/</loc>
@@ -74,30 +74,6 @@
         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.loveer.tech/2016/12/13/test/</loc>
-    <lastmod>2016-12-15T02:42:54.000Z</lastmod>
-    <data>
-        <display>
-        <title>test</title>
-        <pubTime>2016-12-13T05:59:52.000Z</pubTime>
-        
-        <tag>npm</tag>
-         
-        <tag>hexo</tag>
-         
-        <tag>github</tag>
-         
-         
-           
-             
-              <breadCrumb title="搭建博客" url="http://www.loveer.tech/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-          
         </display>
     </data>
     </url>
