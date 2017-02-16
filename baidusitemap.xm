@@ -3,6 +3,7 @@
 
 
     
+    
   <url>
     <loc>http://www.loveer.tech/2017/02/16/DiDIDrawer/</loc>
     <lastmod>2017-02-16T02:29:04.000Z</lastmod>
@@ -77,7 +78,6 @@
     </data>
     </url>
 
-    
     
   <url>
     <loc>http://www.loveer.tech/2016/12/13/test/</loc>
