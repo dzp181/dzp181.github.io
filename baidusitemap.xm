@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://www.loveer.tech/2017/02/16/DiDIDrawer/</loc>
-    <lastmod>2017-02-16T02:27:09.000Z</lastmod>
+    <lastmod>2017-02-16T02:29:04.000Z</lastmod>
     <data>
         <display>
         <title>DiDIDrawer</title>

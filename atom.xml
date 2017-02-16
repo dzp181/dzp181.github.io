@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.loveer.tech/"/>
-  <updated>2017-02-16T02:27:09.000Z</updated>
+  <updated>2017-02-16T02:29:04.000Z</updated>
   <id>http://www.loveer.tech/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://www.loveer.tech/2017/02/16/DiDIDrawer/"/>
     <id>http://www.loveer.tech/2017/02/16/DiDIDrawer/</id>
     <published>2017-02-16T02:23:53.000Z</published>
-    <updated>2017-02-16T02:27:09.000Z</updated>
+    <updated>2017-02-16T02:29:04.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>公司整理一些框架，方便以后使用。感谢开源！</p>
-<h2 id="（一）、iOS开发归档总结"><a href="#（一）、iOS开发归档总结" class="headerlink" title="（一）、iOS开发归档总结"></a>（一）、iOS开发归档总结</h2><blockquote>
+<h2 id="（一）、DiDIDrawer"><a href="#（一）、DiDIDrawer" class="headerlink" title="（一）、DiDIDrawer"></a>（一）、DiDIDrawer</h2><blockquote>
 <ol>
 <li><a href="https://github.com/dzp181/DiDiDrawer" target="_blank" rel="external">github传送门</a></li>
 <li>图示如下：<img src="http://upload-images.jianshu.io/upload_images/1874585-1e82c4332f820959.gif?imageMogr2/auto-orient/strip" alt="didiDrawer.gif"></li>
@@ -34,7 +34,7 @@
     <summary type="html">
     
       &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;公司整理一些框架，方便以后使用。感谢开源！&lt;/p&gt;
-&lt;h2 id=&quot;（一）、iOS开发归档总结&quot;&gt;&lt;a href=&quot;#（一）、iOS开发归档总结&quot; class=&quot;header
+&lt;h2 id=&quot;（一）、DiDIDrawer&quot;&gt;&lt;a href=&quot;#（一）、DiDIDrawer&quot; class=&quot;head
     
     </summary>
     
