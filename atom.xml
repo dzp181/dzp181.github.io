@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.loveer.tech/"/>
-  <updated>2017-01-14T14:54:07.000Z</updated>
+  <updated>2017-02-16T02:27:09.000Z</updated>
   <id>http://www.loveer.tech/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DiDIDrawer</title>
+    <link href="http://www.loveer.tech/2017/02/16/DiDIDrawer/"/>
+    <id>http://www.loveer.tech/2017/02/16/DiDIDrawer/</id>
+    <published>2017-02-16T02:23:53.000Z</published>
+    <updated>2017-02-16T02:27:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>公司整理一些框架，方便以后使用。感谢开源！</p>
+<h2 id="（一）、iOS开发归档总结"><a href="#（一）、iOS开发归档总结" class="headerlink" title="（一）、iOS开发归档总结"></a>（一）、iOS开发归档总结</h2><blockquote>
+<ol>
+<li><a href="https://github.com/dzp181/DiDiDrawer" target="_blank" rel="external">github传送门</a></li>
+<li>图示如下：<img src="http://upload-images.jianshu.io/upload_images/1874585-1e82c4332f820959.gif?imageMogr2/auto-orient/strip" alt="didiDrawer.gif"></li>
+</ol>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;公司整理一些框架，方便以后使用。感谢开源！&lt;/p&gt;
+&lt;h2 id=&quot;（一）、iOS开发归档总结&quot;&gt;&lt;a href=&quot;#（一）、iOS开发归档总结&quot; class=&quot;header
+    
+    </summary>
+    
+      <category term="滴滴出行侧滑效果" scheme="http://www.loveer.tech/categories/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E4%BE%A7%E6%BB%91%E6%95%88%E6%9E%9C/"/>
+    
+    
+      <category term="iOS" scheme="http://www.loveer.tech/tags/iOS/"/>
+    
+  </entry>
   
   <entry>
     <title>iOS开发归档</title>
