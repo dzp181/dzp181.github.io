@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.loveer.tech/"/>
-  <updated>2017-02-23T06:38:42.000Z</updated>
+  <updated>2017-02-23T06:42:28.000Z</updated>
   <id>http://www.loveer.tech/</id>
   
   <author>
@@ -20,16 +20,16 @@
     <link href="http://www.loveer.tech/2017/02/23/%E5%B7%A6%E5%8F%B3%E6%8C%89%E9%92%AE%E7%82%B9%E5%87%BB%E5%B0%81%E8%A3%85/"/>
     <id>http://www.loveer.tech/2017/02/23/左右按钮点击封装/</id>
     <published>2017-02-23T06:27:42.000Z</published>
-    <updated>2017-02-23T06:38:42.000Z</updated>
+    <updated>2017-02-23T06:42:28.000Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><h4 id="左右按钮点击"><a href="#左右按钮点击" class="headerlink" title="左右按钮点击"></a>左右按钮点击</h4><p>   因公司东汇e家项目中有重复出现模块，本着复用原则，鼓励自己多去封装点东西、不管是简单还是复杂的、都希望自己有这个思维。在此作为记录。</p>
-<h4 id="github地址"><a href="#github地址" class="headerlink" title="github地址"></a>github地址</h4><p><a href="https://github.com/dzp181/leftAndRightButtonView" target="_blank" rel="external">github传送门</a></p>
-<h4 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h4><p><img src="http://upload-images.jianshu.io/upload_images/1874585-43b6ca386e1301f0.gif?imageMogr2/auto-orient/strip" alt="leftAndRight.gif"></p>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><h2 id="一-左右按钮点击"><a href="#一-左右按钮点击" class="headerlink" title="(一) 左右按钮点击"></a>(一) 左右按钮点击</h2><p>   因公司东汇e家项目中有重复出现模块，本着复用原则，鼓励自己多去封装点东西、不管是简单还是复杂的、都希望自己有这个思维。在此作为记录。</p>
+<h2 id="二-github地址"><a href="#二-github地址" class="headerlink" title="(二) github地址"></a>(二) github地址</h2><p><a href="https://github.com/dzp181/leftAndRightButtonView" target="_blank" rel="external">github传送门</a></p>
+<h2 id="三-效果图"><a href="#三-效果图" class="headerlink" title="(三) 效果图"></a>(三) 效果图</h2><p><img src="http://upload-images.jianshu.io/upload_images/1874585-43b6ca386e1301f0.gif?imageMogr2/auto-orient/strip" alt="leftAndRight.gif"></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h4 id=&quot;左右按钮点击&quot;&gt;&lt;a href=&quot;#左右按钮点击&quot; class=&quot;headerlink&quot; title=&quot;左右按钮点击&quot;&gt;&lt;/a&gt;左右按钮点击&lt;/h4&gt;&lt;p&gt;   因
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h2 id=&quot;一-左右按钮点击&quot;&gt;&lt;a href=&quot;#一-左右按钮点击&quot; class=&quot;headerlink&quot; title=&quot;(一) 左右按钮点击&quot;&gt;&lt;/a&gt;(一) 左右按钮点击
     
     </summary>
     
