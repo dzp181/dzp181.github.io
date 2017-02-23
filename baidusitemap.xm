@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://www.loveer.tech/2017/02/16/DiDi/</loc>
+    <lastmod>2017-02-23T06:52:10.000Z</lastmod>
+    <data>
+        <display>
+        <title>DiDiDrawer</title>
+        <pubTime>2017-02-16T02:23:53.000Z</pubTime>
+        
+        <tag>iOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="滴滴出行侧滑效果" url="http://www.loveer.tech/categories/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E4%BE%A7%E6%BB%91%E6%95%88%E6%9E%9C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.loveer.tech/2017/01/14/iOS%E5%BC%80%E5%8F%91%E5%BD%92%E6%A1%A3/</loc>
     <lastmod>2017-02-23T06:45:18.000Z</lastmod>
     <data>
@@ -17,26 +37,6 @@
            
              
               <breadCrumb title="iOS开发归档" url="http://www.loveer.tech/categories/iOS%E5%BC%80%E5%8F%91%E5%BD%92%E6%A1%A3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.loveer.tech/2017/02/16/DiDIDrawer/</loc>
-    <lastmod>2017-02-23T06:45:17.000Z</lastmod>
-    <data>
-        <display>
-        <title>DiDiDrawer</title>
-        <pubTime>2017-02-16T02:23:53.000Z</pubTime>
-        
-        <tag>iOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="滴滴出行侧滑效果" url="http://www.loveer.tech/categories/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E4%BE%A7%E6%BB%91%E6%95%88%E6%9E%9C/"/>
           
         </display>
     </data>
