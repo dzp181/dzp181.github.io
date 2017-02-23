@@ -24,7 +24,7 @@
 
     
   <url>
-    <loc>http://www.loveer.tech/2017/02/16/DiDiDrawer/</loc>
+    <loc>http://www.loveer.tech/2017/02/16/DiDIDrawer/</loc>
     <lastmod>2017-02-23T06:45:17.000Z</lastmod>
     <data>
         <display>
