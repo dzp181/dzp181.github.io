@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://www.loveer.tech/2017/08/10/jenkins%E6%8C%81%E7%BB%AD%E5%8C%96%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2017-08-10T02:47:11.000Z</lastmod>
+    <lastmod>2017-08-10T02:49:30.000Z</lastmod>
     <data>
         <display>
         <title>jenkins持续化开发配置</title>
