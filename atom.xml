@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.loveer.tech/"/>
-  <updated>2017-05-25T06:32:07.000Z</updated>
+  <updated>2017-08-10T02:32:01.000Z</updated>
   <id>http://www.loveer.tech/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jenkins持续化开发配置</title>
+    <link href="http://www.loveer.tech/2017/08/10/jenkins%E6%8C%81%E7%BB%AD%E5%8C%96%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/"/>
+    <id>http://www.loveer.tech/2017/08/10/jenkins持续化开发配置/</id>
+    <published>2017-08-10T02:21:56.000Z</published>
+    <updated>2017-08-10T02:32:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>利用jenkins持续开发。</p>
+<h2 id="（一）、具体配置如下"><a href="#（一）、具体配置如下" class="headerlink" title="（一）、具体配置如下"></a>（一）、具体配置如下</h2><blockquote>
+<ol>
+<li><a href="http://note.youdao.com/noteshare?id=05c4d7ee5fbb516086e2ac5c43896f78" target="_blank" rel="external">点我看具体配置</a></li>
+</ol>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;利用jenkins持续开发。&lt;/p&gt;
+&lt;h2 id=&quot;（一）、具体配置如下&quot;&gt;&lt;a href=&quot;#（一）、具体配置如下&quot; class=&quot;headerlink&quot; title=&quot;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>易GO项目总结</title>

@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>http://www.loveer.tech/2017/08/10/jenkins%E6%8C%81%E7%BB%AD%E5%8C%96%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2017-08-10T02:32:01.000Z</lastmod>
+    <data>
+        <display>
+        <title>jenkins持续化开发配置</title>
+        <pubTime>2017-08-10T02:21:56.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.loveer.tech/2017/05/25/%E6%98%93GO%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2017-05-25T06:32:07.000Z</lastmod>
     <data>
