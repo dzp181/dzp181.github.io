@@ -5,14 +5,19 @@
     
   <url>
     <loc>http://www.loveer.tech/2017/08/10/jenkins%E6%8C%81%E7%BB%AD%E5%8C%96%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2017-08-10T02:32:01.000Z</lastmod>
+    <lastmod>2017-08-10T02:47:11.000Z</lastmod>
     <data>
         <display>
         <title>jenkins持续化开发配置</title>
         <pubTime>2017-08-10T02:21:56.000Z</pubTime>
         
+        <tag>CI</tag>
+         
          
            
+             
+              <breadCrumb title="持续化集成CI" url="http://www.loveer.tech/categories/%E6%8C%81%E7%BB%AD%E5%8C%96%E9%9B%86%E6%88%90CI/"/>
+          
         </display>
     </data>
     </url>
